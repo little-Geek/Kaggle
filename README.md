@@ -27,7 +27,7 @@ competition (Kaggle) or from this GIT repository
 
 NOTE - Specify the path of your own directory for read.csv files where feamat, train, test datasets are kept.
 
-For Example - If feamat, train, test datasets are kept in ToxcityPrediction folder then the code would be replaced by - 
+For Example - If feamat, train, test datasets are kept in ToxcityPrediction folder then the following line of code would be replaced by - 
 
 #load train dataset
 train = pd.read_csv('/ToxcityPrediction/train.csv')   
