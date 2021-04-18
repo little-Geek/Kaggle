@@ -6,10 +6,13 @@
  
  Following libraries can be installed directly using Operating System: MAC OS 11.2
  
-1 RUN pip install lightgbm
-2 RUN pip install pandas
-3 RUN pip install -U scikit-learn
-4 RUN pip install numpy
+1) RUN pip install lightgbm;
+
+2) RUN pip install pandas;
+
+3) RUN pip install -U scikit-learn;
+
+4) RUN pip install numpy;
 
 # Instructions to run the code:
 
