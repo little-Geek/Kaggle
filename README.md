@@ -1,12 +1,13 @@
 # Kaggle
 # This is a in Class Toxicity Prediction Challenge 
 # Programming Language: Python
-# It requires sklearn, numpy, pandas and light gbm installation along with Python on your system
-Following libraries can be installed directly using Operating System: MAC OS 11.2
-RUN pip install lightgbm
-RUN pip install pandas
-RUN pip install -U scikit-learn
-RUN pip install numpy
+
+ It requires sklearn, numpy, pandas and light gbm installation along with Python on your system
+ Following libraries can be installed directly using Operating System: MAC OS 11.2
+1 RUN pip install lightgbm
+2 RUN pip install pandas
+3 RUN pip install -U scikit-learn
+4 RUN pip install numpy
 
 # Instructions to run the code:
 
