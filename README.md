@@ -19,7 +19,7 @@
 # Instructions to run the code:
 
 Prerequisites:
-• Install - Jupyter Notebook (anaconda3).
+• Install - anaconda3 or python.
 • Download train, test, and feamat datasets from “The Toxicity Prediction Challenge”
 competition (Kaggle) or from this GIT repository
 
