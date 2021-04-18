@@ -25,7 +25,18 @@ competition (Kaggle) or from this GIT repository
 6. Once the execution completes, submission_final_lgb.csv file will be created in the same folder where FinalCode.py was executed i.e.,ToxcityPrediction folder
 
 
+NOTE - Specify the path of your own directory for read.csv files where feamat, train, test datasets are kept.
 
+For Example - If feamat, train, test datasets are kept in ToxcityPrediction folder then the code would be replaced by - 
+
+#load train dataset
+train = pd.read_csv('/ToxcityPrediction/train.csv')   
+
+#load test dataset
+test = pd.read_csv('/ToxcityPrediction/test.csv') 
+
+#load feamat dataset 
+feature_matrix = pd.read_csv('/ToxcityPrediction/feamat.csv')  
 
 
 
