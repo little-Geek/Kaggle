@@ -1,5 +1,5 @@
 # DataBots_Kaggle
-# This is a in Class Toxicity Prediction Challenge 
+# This is a Kagglel InClass Toxicity Prediction Challenge 
 # Programming Language: Python
 
  It requires sklearn, numpy, pandas and light gbm installation along with Python on your system
