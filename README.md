@@ -1,10 +1,12 @@
-# Databots_Kaggle
+# DataBots_Kaggle
 # This is a in Class Toxicity Prediction Challenge 
 # Programming Language: Python
 
  It requires sklearn, numpy, pandas and light gbm installation along with Python on your system
  
- Following libraries can be installed directly using Operating System: MAC OS 11.2
+ Operating System: MAC OS 11.2
+
+ Following libraries can be installed directly 
  
 1) RUN pip install lightgbm;
 
